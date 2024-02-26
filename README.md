@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Ekran görüntüsü 2024-02-20 014203](https://github.com/Rumeysaa53/Hesap-Makinesi/assets/161252145/ebb39876-852a-4e1c-a697-163c9f7485f8)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
